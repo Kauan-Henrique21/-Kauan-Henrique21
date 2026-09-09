@@ -27,13 +27,10 @@
 
 <br><br>
 
-- :school: 
-- :technologist:
-- :computer: 
+
 - :student: Estou aprendendo `Segurança Cibernética` e `Engenharia de Cibersegurança`.
 - :nerd_face: Sempre `aprendendo coisas novas`.
-- :thinking:
-- :boom: 
+
 
 
 
